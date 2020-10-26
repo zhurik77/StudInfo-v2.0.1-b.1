@@ -1,0 +1,84 @@
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.csprojAssemblyReference.cache
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\MainWindow.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\App.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3_Content.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3_MarkupCompile.cache
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3_MarkupCompile.lref
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudentDB.mdf
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudentDB_log.ldf
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudInfo v2.0 b.3.exe.config
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudInfo v2.0 b.3.exe
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\StudInfo v2.0 b.3.pdb
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\EntityFramework.dll
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\EntityFramework.xml
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\Adding_Student_Window.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\MainWindow.baml
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\Adding_Student_Window.baml
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.g.resources
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo_v2._0_b._3.Properties.Resources.resources
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.csproj.GenerateResource.cache
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.csproj.CoreCompileInputs.cache
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.csproj.CopyComplete
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.exe
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\StudInfo v2.0 b.3.pdb
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\Edit_Student_Window.g.cs
+C:\Users\maksim\source\repos\StudInfo v2.0 b.3\obj\Debug\Edit_Student_Window.baml
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\StudentDB.mdf
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\StudentDB_log.ldf
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\StudInfo v2.0 b.3.exe.config
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\StudInfo v2.0 b.3.exe
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\StudInfo v2.0 b.3.pdb
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.csprojAssemblyReference.cache
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\Adding_Student_Window.g.cs
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\Edit_Student_Window.g.cs
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\App.g.cs
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3_Content.g.cs
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3_MarkupCompile.cache
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3_MarkupCompile.lref
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\Adding_Student_Window.baml
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\Edit_Student_Window.baml
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.g.resources
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo_v2._0_b._3.Properties.Resources.resources
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.csproj.GenerateResource.cache
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.csproj.CopyComplete
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.exe
+C:\Users\student\Desktop\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.pdb
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.csprojAssemblyReference.cache
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\Adding_Student_Window.g.cs
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\Diary.g.cs
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\Edit_Student_Window.g.cs
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\MainWindow.g.cs
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\App.g.cs
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3_Content.g.cs
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3_MarkupCompile.cache
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3_MarkupCompile.lref
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.exe
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.pdb
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\StudentDB.mdf
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\StudentDB_log.ldf
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\StudInfo v2.0 b.3.exe.config
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\StudInfo v2.0 b.3.exe
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\StudInfo v2.0 b.3.pdb
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\EntityFramework.dll
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\EntityFramework.xml
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\Adding_Student_Window.baml
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\Edit_Student_Window.baml
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\MainWindow.baml
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\Diary.baml
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.g.resources
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo_v2._0_b._3.Properties.Resources.resources
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.csproj.GenerateResource.cache
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.csproj.CoreCompileInputs.cache
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\StudInfo v2.0 b.3.csproj.CopyComplete
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\Theme_Editor.g.cs
+C:\Users\maksim\Desktop\StudInfo-v2.0-b.3-main\StudInfo-v2.0-b.3-main\obj\Debug\Theme_Editor.baml

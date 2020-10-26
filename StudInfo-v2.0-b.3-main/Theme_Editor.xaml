@@ -1,0 +1,23 @@
+﻿<Window x:Class="StudInfo_v2._0_b._3.Theme_Editor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudInfo_v2._0_b._3"
+        mc:Ignorable="d"
+        Title="Theme_Editor" Height="400" Width="800">
+    <Grid>
+        <DataGrid x:Name="dataTheme" HorizontalAlignment="Left" Height="349" Margin="10,10,0,0" VerticalAlignment="Top" Width="391" SelectionChanged="dataTheme_SelectionChanged"/>
+        <Label Content="Тема:" HorizontalAlignment="Left" Margin="444,10,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+        <TextBox x:Name="Theme_Add_Box" HorizontalAlignment="Left" Height="23" Margin="498,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="285"/>
+        <Label Content="Задание:" HorizontalAlignment="Left" Margin="420,50,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="Zadanie_Add_Box" HorizontalAlignment="Left" Height="24" Margin="498,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="285" UndoLimit="1500"/>
+        <Label Content="Дата:" HorizontalAlignment="Left" Margin="446,93,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+        <DatePicker x:Name="Data_Picker" HorizontalAlignment="Left" Margin="498,97,0,0" VerticalAlignment="Top" Width="284"/>
+        <Button x:Name="Add_Theme" Content="Добавить занятие" HorizontalAlignment="Left" Margin="411,228,0,0" VerticalAlignment="Top" Width="370" Height="25" Click="Add_Theme_Click"/>
+        <Button x:Name="Save_Change_Theme" Content="Сохранить изменения" HorizontalAlignment="Left" Margin="411,258,0,0" VerticalAlignment="Top" Width="180" Height="50" Click="Save_Change_Theme_Click"/>
+        <Button x:Name="Delete_Theme" Content="Удалить занятие" HorizontalAlignment="Left" Margin="601,258,0,0" VerticalAlignment="Top" Width="180" Height="50" Click="Delete_Theme_Click"/>
+        <Button x:Name="Cancel" Content="Вернуться в меню" HorizontalAlignment="Left" Height="25" Margin="411,315,0,0" VerticalAlignment="Top" Width="370" Click="Cancel_Adding"/>
+
+    </Grid>
+</Window>
